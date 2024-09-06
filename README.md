@@ -7,7 +7,7 @@ Este projeto utiliza o **xUnit** para realizar testes automatizados no ambiente 
 - **Testes de Unidade**: Testes focados em verificar a funcionalidade individual de cada componente.
 - **Mocks e Fakes**: Simulações de dependências usadas durante os testes para garantir isolamento.
 
-## 🌐 Socials:
+Contatos
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:julio958214@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-santos-43428019b)
